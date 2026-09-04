@@ -1,5 +1,3 @@
-Absolutely — here is the **full corrected Step 5 repository**, with **Step 6 — Develop and Register the Protocol** correctly placed as the next step.
-
 # Step 5 — Search the Databases
 
 [← Previous Step: Test and Refine the Search Strategy](../step-4-test-and-refine-search-strategy/)

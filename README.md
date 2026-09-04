@@ -1,6 +1,6 @@
 # Step 5 — Search the Databases
 
-[← Previous Step: Test and Refine the Search Strategy](../step-4-test-and-refine-search-strategy/)
+[← Previous Step: Test and Refine the Search Strategy](https://github.com/adnan-mayof/Test-and-Refine-the-Search-Strategy/blob/main/README.md/)
 
 ---
 

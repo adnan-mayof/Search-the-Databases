@@ -655,10 +655,10 @@ step-5-search-the-databases/
     └── assessment.md
 ```
 
-### Previous Step
+## 🚀 Maya's Journey Continues
 
-**Step 4 — Test and Refine the Search Strategy**
+Maya has now **searched and detertmined** the databases.
 
-### Next Step
+The next challenge is to develop and register the Protocol
 
-**Step 6 — Develop and Register the Protocol**
+### **[Step 6 — Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**

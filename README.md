@@ -661,4 +661,8 @@ Maya has now **searched and detertmined** the databases.
 
 The next challenge is to develop and register the Protocol
 
+She is now ready to move to:
+
+### Next Step
+
 ### **[Step 6 — Develop and Register the Protocol](https://github.com/adnan-mayof/Develop-and-Register-the-Protocol)**
